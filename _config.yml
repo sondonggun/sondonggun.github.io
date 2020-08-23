@@ -1,5 +1,8 @@
 # Base blog settings
-repo                         : "/dactl/ " # the subpath of your site,                         # e.g. /blog/
+
+baseurl " "sondonggun/
+
+baseurl                         : "/dactl/ " # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
 url “ “sondonggun /                          : "" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub

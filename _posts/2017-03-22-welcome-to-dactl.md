@@ -2,14 +2,14 @@
 layout: post
 title:  "TO BE OR NOT TO BE"
 tags:
-  - dactl
+  - I don't no
   - jekyll
 hero: https://source.unsplash.com/collection/430471/
 overlay: red
 published: true
 
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`.
+my name is donggun You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`.
 {: .lead}
 <!–-break-–>
 This launches a web server and auto-regenerates your site when a file is updated.  

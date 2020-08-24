@@ -3,7 +3,7 @@ layout: post
 title:  "TO BE OR NOT TO BE"
 tags:
   - I don't no
-  - jekyll
+  - jekyll~
 hero: https://source.unsplash.com/collection/430471/
 overlay: red
 published: true
